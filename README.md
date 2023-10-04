@@ -11,3 +11,6 @@ Currently, the units are presumed to be in meters, degrees, and hours. This is n
 ## Note
 
 Note that this is a breif notebook working as a pseudo hello-world - this code may be useful on its own further in the project; its currently working as a way to test Binder. If it becomes more sueful, the name will be changed to reflect that.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndrewBewseyTNA/binder-test-dead-reckoning/main)
