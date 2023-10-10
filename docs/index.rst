@@ -9,6 +9,8 @@ Welcome to test-python-visualisation's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   someDocs/docsa
+   someDocs/docsb
 
 
 
